@@ -1,0 +1,10 @@
+products\LowCarbDessert.class
+factories\LowCarbMealFactory.class
+products\LowCarbMainDish.class
+products\MainDish.class
+PRJ_healthyMealFactory.class
+products\Dessert.class
+factories\VeganMealFactory.class
+products\VeganMainDish.class
+factories\MealFactory.class
+products\VeganDessert.class
